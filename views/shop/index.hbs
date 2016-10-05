@@ -1,0 +1,44 @@
+<div class="row">
+	<div class="col-md-6 offset-md-3">
+		<div id="success" class="alert alert-success {{#if noMessages}}hidden-xs-up{{/if}}">
+			{{ successMsg }}
+		</div>
+	</div>
+</div>
+
+{{# each products }}
+	<div class="row">
+		{{# each this }}
+			<div class="col-md-4">
+				<!--Card-->
+				<div class="card">
+					<!--Card image-->
+					<div class="view overlay hm-white-slight flex-center">
+					<img class="img-fluid" src="{{ this.imagePath }}" alt="Card image cap">
+						<a href="#">
+							<div class="mask"></div>
+						</a>
+					</div>
+					<!--/.Card image-->
+
+					<!--Card content-->
+					<div class="card-block">
+						<!--Title-->
+						<h4 class="card-title">{{ this.title }}</h4>
+						<!--Text-->
+						<p class="card-text">{{ this.description}}</p>
+						<!-- Card footer -->
+						<div class="card-footer">
+							<div class="pull-left font-weigth-bold">${{ this.price }}</div>
+							<a href="/add-to-cart/{{this._id}}" class="btn btn-primary pull-right">Buy</a>
+						</div>
+						<!--/Card footer -->
+					</div>
+					<!--/.Card content-->
+				</div>
+				<!--/.Card-->
+			</div>
+		{{/each}}
+	</div>
+{{/each}}
+

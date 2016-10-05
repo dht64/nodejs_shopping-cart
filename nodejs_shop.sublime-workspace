@@ -1,0 +1,864 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"total",
+				"totalPrice"
+			],
+			[
+				"blo",
+				"inline-block"
+			],
+			[
+				"sho",
+				"shopping-cart"
+			],
+			[
+				"tot",
+				"totalPrice"
+			],
+			[
+				"tota",
+				"totalQty"
+			],
+			[
+				"passw",
+				"password"
+			],
+			[
+				"passwor",
+				"passwordField"
+			],
+			[
+				"pro",
+				"profile"
+			],
+			[
+				"csrf",
+				"csrfProtection"
+			],
+			[
+				"mo",
+				"mongoose"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"produc",
+				"productChunks"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"su",
+				"supplier"
+			],
+			[
+				"sta",
+				"status"
+			],
+			[
+				"mater",
+				"material_qty"
+			],
+			[
+				"mate",
+				"material_id"
+			],
+			[
+				"ma",
+				"material"
+			],
+			[
+				"Url",
+				"UrlWindowPresenterTrait"
+			],
+			[
+				"Boo",
+				"BootstrapThreeNextPreviousButtonRendererTrait"
+			],
+			[
+				"Presenter",
+				"PresenterContract"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"text",
+				"text-center"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"materia",
+				"materials"
+			],
+			[
+				"btn",
+				"btn-primary"
+			],
+			[
+				"update",
+				"updated_message"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"cus",
+				"customer_id"
+			],
+			[
+				"product",
+				"product_id"
+			],
+			[
+				"ann",
+				"annual_leave"
+			],
+			[
+				"num_",
+				"num_nondeduct_leave"
+			],
+			[
+				"avai",
+				"avai_annual_leave"
+			],
+			[
+				"annua",
+				"annual_leave"
+			],
+			[
+				"an",
+				"annual_leave"
+			],
+			[
+				"annual",
+				"annual_leaves"
+			],
+			[
+				"annu",
+				"annual_leaves"
+			],
+			[
+				"human",
+				"human_id"
+			],
+			[
+				"sala",
+				"salary"
+			],
+			[
+				"chosen",
+				"chosenMn"
+			],
+			[
+				"red",
+				"redirectTo"
+			],
+			[
+				"B",
+				"BownerSalariesController"
+			],
+			[
+				"this",
+				"thisYr"
+			],
+			[
+				"input",
+				"input_salary"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "views/layouts/layout.hbs",
+			"settings":
+			{
+				"buffer_size": 700,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/shop/index.hbs",
+			"settings":
+			{
+				"buffer_size": 945,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "routes/index.js",
+			"settings":
+			{
+				"buffer_size": 1409,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "models/cart.js",
+			"settings":
+			{
+				"buffer_size": 603,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "views/shop/shopping-cart.hbs",
+			"settings":
+			{
+				"buffer_size": 1128,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app.js",
+			"settings":
+			{
+				"buffer_size": 2379,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/shop/checkout.hbs",
+			"settings":
+			{
+				"buffer_size": 3564,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 313.0,
+		"last_filter": "html",
+		"selected_items":
+		[
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			]
+		],
+		"width": 404.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/nodejs_shop",
+		"/C/xampp/htdocs/nodejs_shop/models",
+		"/C/xampp/htdocs/nodejs_shop/public",
+		"/C/xampp/htdocs/nodejs_shop/public/stylesheets",
+		"/C/xampp/htdocs/nodejs_shop/routes",
+		"/C/xampp/htdocs/nodejs_shop/seed",
+		"/C/xampp/htdocs/nodejs_shop/views",
+		"/C/xampp/htdocs/nodejs_shop/views/partials",
+		"/C/xampp/htdocs/nodejs_shop/views/shop",
+		"/C/xampp/htdocs/nodejs_shop/views/user"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/nodejs_shop/views/partials/header.hbs",
+		"/C/xampp/htdocs/nodejs_shop/views/shop/shopping-cart.hbs",
+		"/C/xampp/htdocs/nodejs_shop/public/stylesheets/style.css",
+		"/C/xampp/htdocs/nodejs_shop/routes/users.js",
+		"/C/xampp/htdocs/nodejs_shop/views/user/signin.hbs",
+		"/C/xampp/htdocs/nodejs_shop/config/passport.js",
+		"/C/xampp/htdocs/nodejs_shop/models/user.js",
+		"/C/xampp/htdocs/nodejs_shop/views/user/signup.hbs",
+		"/C/xampp/htdocs/nodejs_shop/models/product.js",
+		"/C/xampp/htdocs/nodejs_shop/views/user/profile.hbs",
+		"/C/xampp/htdocs/nodejs_shop/seed/productSeeder.js",
+		"/C/xampp/htdocs/nodejs_shop/seed/ProductSeeder.js",
+		"/C/xampp/htdocs/nodejs_shop/routes/index.js",
+		"/C/xampp/htdocs/nodejs_shop/app.js",
+		"/C/xampp/htdocs/lavina_draft/app/Http/Controllers/BownerHumansController.php",
+		"/C/xampp/htdocs/lavina_draft/app/Http/Controllers/SupplierController.php",
+		"/C/xampp/htdocs/lavina_draft/resources/views/bowner/supplier/edit.blade.php",
+		"/C/xampp/htdocs/lavina_draft/resources/views/bowner/supplier/index.blade.php",
+		"/C/xampp/htdocs/lavina_draft/resources/views/bowner/supplier/create.blade.php",
+		"/C/xampp/htdocs/lavina_draft/resources/views/layouts/bowner.blade.php",
+		"/C/xampp/htdocs/lavina_draft/database/migrations/2016_09_24_151401_create_suppliers_table.php",
+		"/C/xampp/htdocs/lavina_draft/database/seeds/SupplierTableSeeder.php",
+		"/C/xampp/htdocs/lavina_draft/database/migrations/2016_09_19_105348_create_customers_table.php",
+		"/C/xampp/htdocs/lavina_draft/app/Http/Controllers/MaterialPurchaseController.php",
+		"/C/xampp/htdocs/lavina_draft/resources/views/bowner/inventories/purchase/index.blade.php",
+		"/C/xampp/htdocs/lavina_draft/resources/views/bowner/production/index.blade.php",
+		"/C/xampp/htdocs/lavina_draft/resources/views/orders/index.blade.php",
+		"/C/xampp/htdocs/lavina_draft/app/Http/Controllers/OrderController.php",
+		"/C/xampp/htdocs/lavina_draft/resources/views/orders/print.blade.php",
+		"/C/xampp/htdocs/lavina_draft/resources/views/layouts/print.blade.php",
+		"/C/xampp/htdocs/lavina_draft/resources/views/layouts/app.blade.php",
+		"/C/xampp/htdocs/lavina_draft/app/Purchase.php",
+		"/C/xampp/htdocs/lavina_draft/resources/views/bowner/inventories/purchase/edit.blade.php",
+		"/C/xampp/htdocs/lavina_draft/resources/views/orders/edit.blade.php",
+		"/C/xampp/htdocs/lavina_draft/app/Http/Controllers/ProductionController.php",
+		"/C/xampp/htdocs/lavina_draft/resources/views/pagination/custom.blade.php",
+		"/C/xampp/htdocs/lavina_draft/app/Pagination/CustomPresenter.php",
+		"/C/xampp/htdocs/lavina_draft/vendor/laravel/framework/src/Illuminate/Pagination/UrlWindowPresenterTrait.php",
+		"/C/xampp/htdocs/lavina_draft/vendor/laravel/framework/src/Illuminate/Pagination/Paginator.php",
+		"/C/xampp/htdocs/lavina_draft/vendor/laravel/framework/src/Illuminate/Pagination/BootstrapThreePresenter.php",
+		"/C/xampp/htdocs/lavina_draft/vendor/laravel/framework/src/Illuminate/Pagination/AbstractPaginator.php",
+		"/C/xampp/htdocs/lavina_draft/vendor/laravel/framework/src/Illuminate/Pagination/BootstrapThreeNextPreviousButtonRendererTrait.php",
+		"/C/xampp/htdocs/lavina_draft/vendor/laravel/framework/src/Illuminate/Contracts/Pagination/Presenter.php",
+		"/C/xampp/htdocs/lavina_draft/vendor/laravel/framework/src/Illuminate/Pagination/LengthAwarePaginator.php",
+		"/C/xampp/htdocs/lavina_draft/app/Http/Controllers/PurchaseController.php",
+		"/C/xampp/htdocs/lavina_draft/resources/views/bowner/inventories/index.blade.php",
+		"/C/xampp/htdocs/lavina_draft/resources/views/bowner/inventories/purchase/create.blade.php",
+		"/C/xampp/htdocs/lavina_draft/resources/views/bowner/inventory/purchase/index.blade.php",
+		"/C/xampp/htdocs/lavina_draft/resources/views/bowner/production/print.blade.php",
+		"/C/xampp/htdocs/lavina_draft/app/Http/Controllers/InventoryController.php",
+		"/C/xampp/htdocs/lavina_draft/resources/views/bowner/inventories/material/index.blade.php",
+		"/C/xampp/htdocs/lavina_draft/public/css/style.css",
+		"/C/xampp/htdocs/lavina_draft/public/css/app.css",
+		"/C/xampp/htdocs/lavina_draft/resources/views/bowner/production/show.blade.php",
+		"/C/xampp/htdocs/lavina_draft/gulpfile.js",
+		"/C/xampp/htdocs/lavina_draft/database/migrations/2016_09_24_151342_create_purchases_table.php",
+		"/C/xampp/htdocs/lavina_draft/database/seeds/DatabaseSeeder.php",
+		"/C/xampp/htdocs/lavina_draft/database/migrations/2016_09_21_141501_create_materials_table.php",
+		"/C/xampp/htdocs/lavina_draft/resources/views/bowner/humans/create.blade.php",
+		"/C/xampp/htdocs/lavina_draft/resources/views/bowner/inventories/material/edit.blade.php",
+		"/C/xampp/htdocs/lavina_draft/resources/views/bowner/humans/edit.blade.php",
+		"/C/xampp/htdocs/lavina_draft/app/Order.php",
+		"/C/xampp/htdocs/lavina_draft/database/seeds/UnitTableSeeder.php",
+		"/C/xampp/htdocs/lavina_draft/database/migrations/2016_09_19_105401_create_products_table.php",
+		"/C/xampp/htdocs/lavina_draft/database/seeds/ProductTableSeeder.php",
+		"/C/xampp/htdocs/lavina_draft/app/Product.php",
+		"/C/xampp/htdocs/lavina_draft/resources/views/admin/users/index.blade.php",
+		"/C/xampp/htdocs/lavina_draft/resources/views/bowner/humans/index.blade.php",
+		"/C/xampp/htdocs/lavina_draft/resources/views/bowner/leaves/index.blade.php",
+		"/C/xampp/htdocs/lavina_draft/resources/views/bowner/salaries/index.blade.php",
+		"/C/xampp/htdocs/lavina_draft/resources/views/bowner/salaries/edit.blade.php",
+		"/C/xampp/htdocs/lavina_draft/resources/views/layouts/admin.blade.php",
+		"/C/xampp/htdocs/lavina_draft/app/Http/routes.php",
+		"/C/xampp/htdocs/lavina_draft/resources/views/bowner/inventories/product/edit.blade.php",
+		"/C/xampp/htdocs/lavina_draft/app/Http/Controllers/BownerSalariesController.php",
+		"/C/xampp/htdocs/lavina_draft/resources/views/bowner/production/edit.blade.php",
+		"/C/xampp/htdocs/lavina_draft/database/migrations/2016_09_19_104036_create_orders_table.php",
+		"/C/xampp/htdocs/lavina_draft/app/Material.php",
+		"/C/xampp/htdocs/lavina_draft/app/Photo.php",
+		"/C/xampp/htdocs/lavina_draft/database/seeds/MaterialTableSeeder.php",
+		"/C/xampp/htdocs/lavina_draft/database/migrations/2016_09_20_071642_create_units_table.php",
+		"/C/xampp/htdocs/lavina_draft/resources/assets/css/libs/custom.css",
+		"/C/xampp/htdocs/lavina_draft/resources/assets/css/libs/custom.min.css",
+		"/C/xampp/htdocs/lavina_draft/app/Http/Controllers/AdminUsersController.php",
+		"/C/xampp/htdocs/lavina_draft/resources/views/includes/message.blade.php",
+		"/C/xampp/htdocs/lavina_draft/resources/views/includes/form_error.blade.php",
+		"/C/xampp/htdocs/lavina_draft/resources/views/admin/users/edit.blade.php",
+		"/C/xampp/htdocs/lavina_draft/app/Http/Controllers/Auth/AuthController.php",
+		"/C/xampp/htdocs/lavina_draft/app/Unit.php",
+		"/C/xampp/htdocs/lavina_draft/database/seeds/CustomerTableSeeder.php",
+		"/C/xampp/htdocs/lavina_draft/database/seeds/UOMTableSeeder.php",
+		"/C/xampp/htdocs/lavina_draft/database/seeds/ProductCustomer.php",
+		"/C/xampp/htdocs/lavina_draft/resources/views/admin/users/create.blade.php",
+		"/C/xampp/htdocs/lavina_draft/database/migrations/2016_09_19_165656_create_u_o_ms_table.php",
+		"/C/xampp/htdocs/lavina_draft/resources/views/bowner/orders/index.blade.php",
+		"/C/xampp/htdocs/lavina_draft/resources/views/bowner/sale/index.blade.php",
+		"/C/xampp/htdocs/lavina_draft/database/migrations/2016_08_25_085612_create_humans_table.php",
+		"/C/xampp/htdocs/lavina_draft/app/User.php",
+		"/C/xampp/htdocs/lavina_draft/app/Role.php",
+		"/C/xampp/htdocs/lavina_draft/app/Human.php",
+		"/C/xampp/htdocs/lavina_draft/resources/views/bowner/index.blade.php",
+		"/C/xampp/htdocs/lavina_draft/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/xampp/htdocs/lavina_draft/app/Http/Controllers/LeavesController.php",
+		"/C/xampp/htdocs/lavina_draft/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php",
+		"/C/xampp/htdocs/lavina_draft/app/Http/Controllers/Controller.php",
+		"/C/xampp/htdocs/lavina_draft/vendor/laravel/framework/src/Illuminate/Foundation/Auth/Access/AuthorizesRequests.php",
+		"/C/xampp/htdocs/lavina_draft/database/migrations/2016_09_09_095707_create_leaves_table.php",
+		"/C/xampp/htdocs/lavina_draft/app/Leave.php",
+		"/C/xampp/htdocs/lavina_draft/resources/views/bowner/leaves/edit.blade.php",
+		"/C/xampp/htdocs/lavina_draft/app/Salary.php",
+		"/C/xampp/htdocs/lavina_draft/database/migrations/2016_08_30_103456_create_salaries_table.php",
+		"/C/xampp/htdocs/lavina_draft/database/migrations/2016_08_12_064435_add_photo_id_to_users.php",
+		"/C/xampp/htdocs/lavina_draft/database/migrations/2016_09_09_094651_add_leaves_to_humans_table.php",
+		"/C/xampp/htdocs/lavina_draft/database/migrations/2016_09_09_093733_create_hummans_table.php",
+		"/C/xampp/htdocs/lavina_draft/resources/views/admin/comments/index.blade.php",
+		"/C/xampp/htdocs/lavina_draft/resources/views/admin/posts/index.blade.php",
+		"/C/xampp/htdocs/lavina_draft/resources/views/admin/posts/create.blade.php",
+		"/C/xampp/htdocs/lavina_draft/resources/views/post.blade.php",
+		"/C/xampp/htdocs/lavina_draft/app/Http/Middleware/Bowner.php",
+		"/C/xampp/htdocs/lavina_draft/app/Http/Controllers/HomeController.php",
+		"/C/xampp/htdocs/lavina_draft/app/Http/Controllers/AdminPostsController.php",
+		"/C/xampp/htdocs/lavina_draft/resources/views/test.html",
+		"/C/xampp/htdocs/lavina_draft/vendor/laravel/framework/src/Illuminate/Foundation/Auth/RedirectsUsers.php",
+		"/C/xampp/htdocs/lavina_draft/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php",
+		"/C/xampp/htdocs/lavina_draft/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesAndRegistersUsers.php",
+		"/C/xampp/htdocs/lavina_draft/app/Http/Middleware/Authenticate.php",
+		"/C/xampp/htdocs/lavina_draft/app/Http/Requests/HumansRequest.php",
+		"/C/xampp/htdocs/lavina_draft/vendor/laravel/framework/src/Illuminate/Foundation/Auth/ThrottlesLogins.php"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"md-form",
+			"form-group",
+			"h4",
+			"li",
+			"ul",
+			"h3",
+			"strong",
+			"email",
+			"form-group",
+			"Gender",
+			"gender",
+			"Age",
+			"age",
+			"start_day",
+			"human",
+			"order",
+			"col",
+			"material",
+			"quantity",
+			"p_qty",
+			"quantity",
+			"material",
+			"name",
+			"product",
+			"Product",
+			"product",
+			"material",
+			"product",
+			"Product",
+			"product",
+			"Product",
+			"product",
+			"Product",
+			"product",
+			"Create",
+			"create",
+			"view",
+			"order",
+			"uom_id",
+			"uom",
+			"UOM",
+			"uom",
+			"UOM",
+			";\n",
+			"sale",
+			"salary",
+			"deleted_salary",
+			">\n",
+			"salary",
+			"Salary",
+			"salary",
+			"Salary",
+			"salary",
+			"           \n",
+			"'));\n",
+			");\n",
+			";\n",
+			");\n",
+			"images",
+			"text",
+			"Age",
+			"age",
+			"');\n",
+			"();\n",
+			"');\n",
+			"human",
+			">\n",
+			"panel",
+			"class"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "views/layouts/layout.hbs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 700,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								184,
+								248
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "views/shop/index.hbs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 945,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								749,
+								749
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "routes/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1409,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1376,
+								1376
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 255.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "models/cart.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 603,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								419,
+								419
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "views/shop/shopping-cart.hbs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1128,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								71,
+								71
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2379,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1388,
+								1388
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 408.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "views/shop/checkout.hbs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3564,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								776,
+								776
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 765.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "nodejs_shop.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"bootstrapth",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Pagination\\BootstrapThreePresenter.php"
+			],
+			[
+				"pagina",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Pagination\\Paginator.php"
+			],
+			[
+				"presen",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Contracts\\Pagination\\Presenter.php"
+			],
+			[
+				"lengthawa",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Pagination\\LengthAwarePaginator.php"
+			],
+			[
+				"model",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 334.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
